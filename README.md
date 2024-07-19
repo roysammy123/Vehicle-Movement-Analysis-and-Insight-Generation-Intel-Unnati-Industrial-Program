@@ -14,12 +14,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a> </li>
+    <li><a href="#built-with">Built With</a></li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -73,13 +69,13 @@
   - Makes parking management more efficient and user-friendly.
 
 
-### Built With
+## Built With
 
 Techstacks used for this project.
 
-* [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-* [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-* <img src="https://github.com/user-attachments/assets/63169f5b-77cd-4e04-90e3-d43467a2697e" alt="Made with Streamlit" width="200" height="80">
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
+<img src="https://github.com/user-attachments/assets/63169f5b-77cd-4e04-90e3-d43467a2697e" alt="Made with Streamlit" width="200" height="80">
 
 
 <!-- GETTING STARTED -->
